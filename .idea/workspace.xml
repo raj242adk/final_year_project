@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63cc3775-4374-4768-8c55-8913d57421b1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_Fast_Face_Recogniton_System/1_insightface_understanding.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_Fast_Face_Recogniton_System/1_insightface_understanding.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_Fast_Face_Recogniton_System/2_fast_face_recognition_system.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_Fast_Face_Recogniton_System/2_fast_face_recognition_system.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_Fast_Face_Recogniton_System/3_Save_and_Retrive_data_from_to_redis_database.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_Fast_Face_Recogniton_System/3_Save_and_Retrive_data_from_to_redis_database.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_Fast_Face_Recogniton_System/4_prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_Fast_Face_Recogniton_System/4_prediction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_attendance_app/.ipynb_checkpoints/face_rec-checkpoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_attendance_app/Home.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_attendance_app/face_embedding.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_attendance_app/face_rec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_attendance_app/insightface_model/models/buffalo_l.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_attendance_app/insightface_model/models/buffalo_l/1k3d68.onnx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_attendance_app/insightface_model/models/buffalo_l/2d106det.onnx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_attendance_app/insightface_model/models/buffalo_l/det_10g.onnx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_attendance_app/insightface_model/models/buffalo_l/genderage.onnx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_attendance_app/insightface_model/models/buffalo_l/w600k_r50.onnx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_attendance_app/insightface_model/models/buffalo_sc.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_attendance_app/insightface_model/models/buffalo_sc/det_500m.onnx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_attendance_app/insightface_model/models/buffalo_sc/w600k_mbf.onnx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_attendance_app/pages/1_Real_Time_Predection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_attendance_app/pages/2_Registration_Form.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_attendance_app/pages/3_Report.Py.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/insightface_model/models/buffalo_sc.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/insightface_model/models/buffalo_sc/det_500m.onnx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/insightface_model/models/buffalo_sc/w600k_mbf.onnx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2dJp11iGR8G1eIH03NebPEbPlxs" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;Python.1_Real_Time_Prediction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Home.executor&quot;: &quot;Run&quot;,
+    &quot;Python.face_rec.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hp/Downloads/Attendance_System/Attendance_System/Notes/4_attendance_app&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\Downloads\Attendance_System\Attendance_System\Notes\4_attendance_app" />
+      <recent name="C:\Users\hp\Downloads\Attendance_System\Attendance_System\Notes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\Downloads\Attendance_System\Attendance_System\Notes\4_attendance_app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Home" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Notes" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.10 (Attendance_System)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_attendance_app" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\hp\Downloads\Attendance_System\Attendance_System\Notes\4_attendance_app\Home.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63cc3775-4374-4768-8c55-8913d57421b1" name="Changes" comment="" />
+      <created>1709735817360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709735817360</updated>
+      <workItem from="1709735818440" duration="72000" />
+      <workItem from="1709735909467" duration="5138000" />
+      <workItem from="1709742009285" duration="828000" />
+      <workItem from="1709742853763" duration="1088000" />
+      <workItem from="1709743964095" duration="1350000" />
+      <workItem from="1709748148081" duration="582000" />
+      <workItem from="1709775526734" duration="454000" />
+      <workItem from="1709829175454" duration="10897000" />
+      <workItem from="1709861720114" duration="13903000" />
+      <workItem from="1709883772513" duration="11271000" />
+      <workItem from="1709903600366" duration="1345000" />
+      <workItem from="1709980754491" duration="29000" />
+      <workItem from="1709980971556" duration="3573000" />
+      <workItem from="1709985134054" duration="771000" />
+      <workItem from="1710000059912" duration="256000" />
+      <workItem from="1710062344459" duration="1213000" />
+      <workItem from="1710125634353" duration="370000" />
+      <workItem from="1710244705814" duration="606000" />
+      <workItem from="1710592978193" duration="8268000" />
+      <workItem from="1710638959290" duration="300000" />
+      <workItem from="1710675602454" duration="13621000" />
+      <workItem from="1710697037879" duration="3495000" />
+      <workItem from="1710702156364" duration="1274000" />
+      <workItem from="1710725786216" duration="5535000" />
+      <workItem from="1710739408187" duration="3230000" />
+      <workItem from="1710743071554" duration="11732000" />
+      <workItem from="1710754961728" duration="776000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Notes$face_rec.coverage" NAME="face_rec Coverage Results" MODIFIED="1709744182673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_attendance_app" />
+    <SUITE FILE_PATH="coverage/Notes$Home.coverage" NAME="Home Coverage Results" MODIFIED="1709835114043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_attendance_app" />
+    <SUITE FILE_PATH="coverage/Notes$1_Real_Time_Prediction.coverage" NAME="1_Real_Time_Prediction Coverage Results" MODIFIED="1709744192282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_attendance_app/pages" />
+  </component>
+</project>
