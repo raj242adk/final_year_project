@@ -11,7 +11,7 @@
       <change beforePath="$PROJECT_DIR$/2_Fast_Face_Recogniton_System/3_Save_and_Retrive_data_from_to_redis_database.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_Fast_Face_Recogniton_System/3_Save_and_Retrive_data_from_to_redis_database.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2_Fast_Face_Recogniton_System/4_prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_Fast_Face_Recogniton_System/4_prediction.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/4_attendance_app/.ipynb_checkpoints/face_rec-checkpoint.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_attendance_app/Home.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_attendance_app/Home.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_attendance_app/Home.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/4_attendance_app/face_embedding.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/4_attendance_app/face_rec.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/4_attendance_app/insightface_model/models/buffalo_l.zip" beforeDir="false" />
@@ -26,6 +26,7 @@
       <change beforePath="$PROJECT_DIR$/4_attendance_app/pages/1_Real_Time_Predection.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/4_attendance_app/pages/2_Registration_Form.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/4_attendance_app/pages/3_Report.Py.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_attendance_app/pages/4ℹ️_About.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_attendance_app/pages/4ℹ️_About.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/insightface_model/models/buffalo_sc.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/insightface_model/models/buffalo_sc/det_500m.onnx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/insightface_model/models/buffalo_sc/w600k_mbf.onnx" beforeDir="false" />
@@ -155,6 +156,7 @@
       <workItem from="1710739408187" duration="3230000" />
       <workItem from="1710743071554" duration="11732000" />
       <workItem from="1710754961728" duration="776000" />
+      <workItem from="1710761224925" duration="4922000" />
     </task>
     <servers />
   </component>

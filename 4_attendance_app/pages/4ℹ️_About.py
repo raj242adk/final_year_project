@@ -1,11 +1,27 @@
 import streamlit as st
 
-
 def main():
+    # Set page layout and background color
+    st.set_page_config(page_title="About Face Recognition App", layout="wide", page_icon=":smiley:", initial_sidebar_state="collapsed")
+    st.markdown(
+        """
+        <style>
+        body {
+            color: #333333;
+            background-color: #ffffff;
+        }
+        .sidebar .sidebar-content {
+            background-color: #f0f0f0;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True,
+    )
+
+    # Main content
     st.title("About Face Recognition App")
 
-    # Add image
-    st.image("face1.jpg", width=300)
+
 
     st.write("""
         This is a real-time attendance system using face recognition. 
@@ -31,6 +47,7 @@ def main():
         If you have any questions or feedback, feel free to reach out to us at jamestamang544@gmail.com.
     """)
 
-
+# Add image
+    st.image("face1.jpg", width=300)
 if __name__ == "__main__":
     main()
