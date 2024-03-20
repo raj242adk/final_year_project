@@ -126,6 +126,7 @@ class RealTimePred:
             cv2.rectangle(test_copy, (x1, y1), (x2, y2), color)
 
             text_gen = person_name
+
             cv2.putText(test_copy, text_gen, (x1, y1), cv2.FONT_HERSHEY_DUPLEX, 0.7, color, 2)
             cv2.putText(test_copy, current_time, (x1, y2 + 10), cv2.FONT_HERSHEY_DUPLEX, 0.7, color, 2)
 
